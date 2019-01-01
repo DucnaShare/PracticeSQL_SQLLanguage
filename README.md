@@ -22,4 +22,4 @@
 
 
 
-![](https://latex.codecogs.com/gif.download?a_%7B5%7D%20+%207%5Cfrac%7B2%7D%7B4%7D)
+![](<a href="https://www.codecogs.com/eqnedit.php?latex=a_{5}&space;&plus;&space;7\frac{2}{4}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?a_{5}&space;&plus;&space;7\frac{2}{4}" title="a_{5} + 7\frac{2}{4}" /></a>)
