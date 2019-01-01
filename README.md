@@ -27,3 +27,4 @@
 [](https://latex.codecogs.com/gif.latex?a_{5}&space;&plus;&space;7\frac{2}{4}&space;&plus;&space;9_{x})
 
 ![](https://latex.codecogs.com/gif.latex?a_{5}&space;&plus;&space;7\frac{2}{4}&space;&plus;&space;9_{x})
+https://latex.codecogs.com/gif.latex?a_{5}&space;&plus;&space;7\frac{2}{4}&space;&plus;&space;9_{x}
