@@ -20,3 +20,6 @@
 ....
 31. **[]()**
 
+
+
+![](https://latex.codecogs.com/gif.download?a_%7B5%7D%20+%207%5Cfrac%7B2%7D%7B4%7D)
