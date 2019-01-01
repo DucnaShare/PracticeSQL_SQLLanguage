@@ -23,3 +23,5 @@
 
 
 <a href="https://www.codecogs.com/eqnedit.php?latex=a_{5}&space;&plus;&space;7\frac{2}{4}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?a_{5}&space;&plus;&space;7\frac{2}{4}" title="a_{5} + 7\frac{2}{4}" /></a>
+
+[](https://latex.codecogs.com/gif.latex?a_{5}&space;&plus;&space;7\frac{2}{4}&space;&plus;&space;9_{x})
